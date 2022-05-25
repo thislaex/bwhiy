@@ -3,3 +3,4 @@ Behiy software is a software that started to be designed and coded as live chat.
 Software Developers
 2qke - Frontend
 thislaex - Backend
+©️ Incsects INC. & VA Project & EBUSoft - 2022
